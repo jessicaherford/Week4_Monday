@@ -1,4 +1,4 @@
-#Outline for Monday, September 28th
+#Outline for Monday, October 5th
 - ###Accessing the DOM with JavaScript
 - ###jQuery
 
