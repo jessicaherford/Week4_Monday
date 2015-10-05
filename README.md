@@ -65,13 +65,13 @@ All selectors in jQuery start with the dollar sign and parentheses:
  $("tbody").action();
  /// the tbody element will have subsequent actions performed on it
 ```
-
-When a user clicks on a button, all `<p>` elements will be hidden:
+### The 'Click' Event
+When a user clicks on a button, all <p> elements will have the text "You clicked the button":
 
 ```javascript
 $(document).ready(function(){
     $("button").click(function(){
-        $("p").hide();
+        $("p").text("You clicked the button");
     });
 });
 ```
