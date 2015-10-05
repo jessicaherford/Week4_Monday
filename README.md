@@ -74,6 +74,11 @@ $(document).ready(function(){
         $("p").text("You clicked the button");
     });
 });
+
+[Mouse Enter](https://api.jquery.com/mouseenter/)
+
+[Mouse Leave](https://api.jquery.com/mouseleave/)
+
 ```
 ### Getting and Setting Element Information
 ```javascript
