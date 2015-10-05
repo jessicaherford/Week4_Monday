@@ -4,6 +4,7 @@ body {
   margin-right: 5%;
   width: 100%;
   height: 100%;
+  color: #000;
 }
 
 #hover {
@@ -12,7 +13,7 @@ body {
   background-color: #39B7CD;
 }
 .green {
-  background-color: #00AF33;
+  border: 4px solid #00AF33;
 }
 .hideMe {
   width: 100px;
@@ -58,8 +59,4 @@ body {
   background-image: url("http://www.henderson-art.co.uk/art/wallpaper/chaos.jpg");
   background-size: 100%;
   color: #fff;
-}
-.restore {
-  background-color: #fff;
-  color: #000;
 }
