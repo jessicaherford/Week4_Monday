@@ -137,3 +137,14 @@ $("h2").clone().appendTo("h2");
 $("h2").remove()
 // this removes the h2 element from the page
 ```
+
+### Updating CSS
+Use the `.css()` method to update CSS attributes of an element.
+```javascript
+<div id="main">
+  <h2>Eliminate me!</h2>
+</div>
+
+$("h2").css("color", "red");
+// changes h2 color to red
+```
