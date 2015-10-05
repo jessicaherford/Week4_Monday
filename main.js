@@ -6,6 +6,7 @@
 // 1. Hide all of the paragraphs on the index.html page.
 
 
+
 // 2. Hide all of the h1's on the page.
 
 
